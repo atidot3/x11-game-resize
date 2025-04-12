@@ -1,5 +1,9 @@
 # x11-game-resize
-Tired to be forced to play in random resolution
+
+Tested and working with almost every steam games.
+Do not work in most lutris/wine game at the moment.
+
+Tired to be forced to play in random resolution:
 
 main $ ./resizer 
 wmctrl execution success.
