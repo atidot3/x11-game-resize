@@ -9,8 +9,6 @@ set(EXENAME ${PROJECT_NAME})
 
 add_executable(${EXENAME}
     src/main.cpp
-    src/resizer.h
-    src/resizer.h
 )
 
 target_include_directories(${EXENAME} PRIVATE
