@@ -14,7 +14,7 @@ Window detected :
 6) [0]  lin bin
 7) [0]  lin x11-game-resize – main.cpp
 8) [0]  lin Ghost Recon® Breakpoint
-9) 
+
 Please select the window id : 8
 
 New width (default = 2560) : 0
