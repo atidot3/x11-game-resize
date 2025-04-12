@@ -7,7 +7,9 @@ Do not work in most lutris/wine game at the moment.
 Tired to be forced to play in random resolution:
 
 main $ ./resizer 
+
 wmctrl execution success.
+
 Window detected :
 
 0) [0]  lin @ - Discord
