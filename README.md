@@ -29,6 +29,6 @@ New height (default = 1414) : 0
 (headerbar) removed with success 0x0ac00003.
 
 
-Required: libx11-dev
+Required: libx11-dev wmctrl
 
 <a href="https://www.buymeacoffee.com/atidote" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
